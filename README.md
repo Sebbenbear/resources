@@ -27,3 +27,9 @@ A list of useful resources for learning computer science.
 ## Regex
 
 [Rubular](http://rubular.com/r/UAgzl9NxQv) is great for playing around with regexes to get a feel for how they work.
+
+## Academic Articles
+
+[X] [Error Messages are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
+
+[ ] [The Impact of a Single Lecture on Program Plans in First-Year] CS(http://cs.brown.edu/~sk/Publications/Papers/Published/ckf-impact-1-lec-plan-y1/)
