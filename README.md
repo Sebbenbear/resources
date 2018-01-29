@@ -18,7 +18,9 @@ A list of useful resources for learning computer science.
 
 [Hacker Rank](www.hackerrank.com) is really handy for brushing up on problems from a particular domain.
 
-[LeetCode](leetcode.com) is apparently one of the best practice interview sites.
+[CodingBat](http://codingbat.com/java) is a nice resource I found by trawling through the [Google Techdev Guide](https://techdevguide.withgoogle.com/). It's not as pretty as some of the other sites, but there's a really good selection of problems and I'm enjoying going through it!
+
+[LeetCode](leetcode.com) is apparently one of the best practice interview sites - I'm pretty invested boosting my imaginary points in HackerRank for the time being.
 
 [InterviewBit](https://www.interviewbit.com/) is a great site, but I don't really like the way everything is timed.
 
@@ -26,7 +28,7 @@ A list of useful resources for learning computer science.
 
 ## Python
 
-[Full Stack Python](https://www.fullstackpython.com/web-frameworks.html) seems like a really great resource for learning more about web frameworks, and just python in general.
+[Full Stack Python](https://www.fullstackpython.com/web-frameworks.html) seems like a really great resource for learning more about web frameworks, and just Python in general - I'm very much looking forward to investigating this properly.
 
 [Programiz](https://www.programiz.com/python-programming) explains more advanced python concepts in a readable way, I liked how the content was presented.
 
