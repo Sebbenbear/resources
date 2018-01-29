@@ -2,7 +2,13 @@
 
 A list of useful resources for learning computer science.
 
-# Learning Web Development
+## Introductions to Computer Science
+
+[Harvard's CS50](http://cs50.org/) is an excellent resource for everyone. David Malan is a fantastically energetic and passionate about teaching, which makes a world of difference to students! You cover all the important stuff in a very digestible way. Interestingly, students start off with one assignment in Scratch, MIT's drag and drop programming language. Students then move to C, and learn about memory, big O, pointers and more! Finally, the course finishes up with Python, SQL and web programming. This is such a good all-rounder course.
+
+[Udacity's Introduction to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) is a wonderful course, one of my favourites. Using Python, you get to explore more about programming language fundamentals. I feel like most people would find the learning curve steeper than the CS50 course. You start off with building a web scraper, and finish by creating a basic search engine. One of the best units is Problem Solving, where you really work out how to break down problems, and iterate on them.
+
+## Learning Web Development
 
 [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)'s site has everything you need to know!
 
